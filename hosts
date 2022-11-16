@@ -1,3 +1,17 @@
 0.0.0.0 pornhub.com
-0.0.0.0 tiktok.com
+0.0.0.0 xnxx.com
+0.0.0.0 xvideos.com
+
+# Block Reddit
 0.0.0.0 reddit.com
+0.0.0.0 np.reddit.com
+0.0.0.0 bt.reddit.com
+0.0.0.0 m.reddit.com
+0.0.0.0 out.reddit.com
+0.0.0.0 oauth.reddit.com
+0.0.0.0 ssl.reddit.com
+
+# Block TikTok
+0.0.0.0 tiktok.com
+0.0.0.0 titokcdn.com
+0.0.0.0 tiktokv.com
